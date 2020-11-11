@@ -3,4 +3,10 @@ Fast, Working Kahoot flooder. Available for mac, linux, and windows.
 
 Now Published on npm!
 
-`npm i -g kahootflooder`
+`----------------------
+npm i -g kahootflooder
+----------------------`
+
+`---------------------------
+| Public API In Development |
+---------------------------`
