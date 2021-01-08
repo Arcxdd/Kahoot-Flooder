@@ -8,9 +8,3 @@ Now Published on npm!
 | npm i -g kahootflooder |
 --------------------------
 ```
-
-```
------------------------------
-| Public API In Development |
------------------------------
-```
