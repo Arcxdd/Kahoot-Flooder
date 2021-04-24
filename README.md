@@ -1,5 +1,5 @@
 # Kahoot-Flooder
-Fast, Working Kahoot flooder. Available for mac, linux, and windows.
+Fast Single threaded, Working Kahoot flooder. Available for mac, linux, and windows.
 
 Now Published on npm!
 
