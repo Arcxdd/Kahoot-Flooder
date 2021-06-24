@@ -8,3 +8,9 @@ Now Published on npm!
 | npm i -g kahootflooder |
 --------------------------
 ```
+
+```
+---------------------------
+| Command to start: flood |
+---------------------------
+```
